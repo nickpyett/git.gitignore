@@ -1,0 +1,8 @@
+git.gitignore
+
+@author Nick Pyett (contact@nickpyett.com)
+@lisence MIT
+
+This is a boiler plate .gitignore file that I use in my projects that use the Git VCS. It ignores the folders I use in my typical folder tree; complied source files; archive and packages; log files and system files.
+
+You may not see the actual .gitignore file as it is a system file, but it is there!
