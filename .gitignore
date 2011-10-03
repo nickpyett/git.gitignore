@@ -20,7 +20,6 @@ _docs/
 *.jar
 *.rar
 *.tar
-*.zip
 
 # Logs
 
@@ -28,6 +27,7 @@ _docs/
 
 # System
 
+*.DS_Store
 *.DS_Store?
 ehthumbs.db
 Icon?

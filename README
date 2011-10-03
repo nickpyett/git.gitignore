@@ -5,4 +5,6 @@ git.gitignore
 
 This is a boiler plate .gitignore file that I use in my projects that use the Git VCS. It ignores the folders I use in my typical folder tree; complied source files; archive and packages; log files and system files.
 
-You may not see the actual .gitignore file as it is a system file, but it is there!
+Some of this is taken from the Github help article on ignore files (http://help.github.com/ignore-files/).
+
+You may not see the actual .gitignore file as it is a system file, but it is there! You'll see it if you do a "git ls-files" in the working directory.
